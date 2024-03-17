@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpgangsta/googleauthenticator": "dev-master",
+        "spomky-labs/otphp": "^11.2"
+    }
+}
